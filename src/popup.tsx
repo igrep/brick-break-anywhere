@@ -49,7 +49,8 @@ function IndexPopup() {
           withScoreboard,
           initialBallSpeed,
           sound,
-          visualizeBlocks: true,
+          //visualizeBlocks: true,
+          visualizeBlocks: false,
           controlMode: "mouse"
         })
       )
